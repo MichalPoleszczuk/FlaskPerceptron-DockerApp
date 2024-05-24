@@ -1,2 +1,0 @@
-# FlaskPerceptron-DockerApp
-Class Assignment
